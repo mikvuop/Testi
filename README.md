@@ -9,3 +9,7 @@ Tämä on esimerkki README tiedosto.
 ## Linkki esimerkki
 
 [Pelaa ristinollaa](https://geronimo.okol.org/~mikvuop/selainohjelmointi/harjoitustyo/yksinpeli.html)
+
+1. Kerää alushousuja
+2. ?????
+3. Rahaa!
